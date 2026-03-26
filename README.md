@@ -1,10 +1,10 @@
  # Student Mental Health and Burnout Analysis
 
 ## Team Members
-*
+* IT22291950 - Bandara D. S. M. N. D.
 * IT22227690 - Hirushi Divyanjalie
-* 
-*
+* IT22244352 - Hewa Halpage A . E . K
+* IT22170002 - Jayanath H.P.K.N
 
 ## Project Description
 Applying Machine Learning algorithms to predict student burnout levels based on real-world datasets from Kaggle.
