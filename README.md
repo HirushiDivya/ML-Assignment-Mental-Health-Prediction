@@ -2,7 +2,7 @@
 
 ## Team Members
 * IT22291950 - Bandara D. S. M. N. D.
-* IT22227690 - Hirushi Divyanjalie
+* IT22227690 - Divyanjalie W.A.H
 * IT22244352 - Hewa Halpage A . E . K
 * IT22170002 - Jayanath H.P.K.N
 
